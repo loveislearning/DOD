@@ -39,10 +39,10 @@ The system provides a user-friendly interface with secure authentication, listin
 ---
 
 ## 👨‍💻 Team Members  
-- [Shally Chauhan](https://github.com/Mewisgettingperfect )  
+- [Shally Chauhan](https://github.com/loveislearning)  
 - [Sherani Goyal](https://github.com/sheranii)  
 - [Sakshamdeep](https://github.com/SakshamDeep0915)  
-- [Sidhant](https://github.com/teammate3)  
+- [Sidhant](https://github.com/007sidhant)  
 
 ---
 
